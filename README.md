@@ -9,6 +9,6 @@ should be deployed on a NODEJS server
 ## Bugs
 tile is missing would lead to visual errors 
 
-##Contact
+## Contact
 Laythmassoud8@gmail.com
 
